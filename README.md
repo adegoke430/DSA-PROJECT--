@@ -76,8 +76,12 @@ This project involved analyzing a dataset of Amazon product reviews to extract i
 
 ###  Files
 
-- `Amazon_Review_Analysis.xlsx` – Cleaned data, pivot tables, and dashboard  
-- `dashboard_screenshot.png` – Dashboard preview image
+- [Amazon_Analysis.xlsx](./Amazon_Analysis.xlsx)-Cleaned data, pivot tables, and dashboard  
+- [dashboard_screenshot.png](./dashboard_screenshot.png) – Dashboard preview image
+
+---
+## Dashboard
+![dashboard_screenshot.png](dashboard_screenshot.png)
 
 ---
 
@@ -255,6 +259,6 @@ Insight:
 
 ### 📁 Files
 
-- `DSA_SQL_Project_Query.sql` –
+- [DSA_SQL_Project_Query.sql](./DSA_SQL_Project_Query.sql)
 
 ---
