@@ -77,11 +77,11 @@ This project involved analyzing a dataset of Amazon product reviews to extract i
 ###  Files
 
 - [Amazon_Analysis.xlsx](./Amazon_Analysis.xlsx)-Cleaned data, pivot tables, and dashboard  
-- [dashboard_screenshot.png](./dashboard_screenshot.png) – Dashboard preview image
+- [Dashboard.png](./Dashboard.png) – Dashboard preview image
 
 ---
 ## Dashboard
-![dashboard_screenshot.png](dashboard_screenshot.png)
+![ExcelDashboard](Dashboard.png)
 
 ---
 
